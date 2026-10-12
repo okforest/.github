@@ -3,9 +3,9 @@
 The planning doc for this repository; move items to GitHub Issues as the
 project matures.
 
-- **Email aliases before publishing.** `security@okforest.ai`,
-  `conduct@okforest.ai`, and `trademarks@okforest.ai` are referenced here and
-  must exist before the repository goes public.
+- **Email aliases (urgent).** `security@okforest.ai`, `conduct@okforest.ai`,
+  and `trademarks@okforest.ai` are published in this public repository and
+  must deliver mail.
 - **Profile toolkit table.** Once the CLI is on npm (and later the Validate
   Action and Skills), add a table like Elicitly's linking `okforest`,
   `@okforest/okf`, `@okforest/validate`, `okforest/validate`, and
