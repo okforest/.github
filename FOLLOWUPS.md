@@ -3,16 +3,12 @@
 The planning doc for this repository; move items to GitHub Issues as the
 project matures.
 
-- **Email aliases (urgent).** `security@okforest.ai`, `conduct@okforest.ai`,
-  and `trademarks@okforest.ai` are published in this public repository and
-  must deliver mail.
 - **Profile toolkit table.** Once the CLI is on npm (and later the Validate
   Action and Skills), add a table like Elicitly's linking `okforest`,
   `@okforest/okf`, `@okforest/validate`, `okforest/validate`, and
   `okforest/skills`.
-- **Organization settings.** Upload `github-avatar.png` from the brand assets
-  as the organization picture (if not already done), and enable private
-  vulnerability reporting on each public repository.
+- **Private vulnerability reporting.** Enable it on each public repository
+  as it is created (`SECURITY.md` points reporters there).
 - **Trademark.** Run the USPTO search and register the OKForest wordmark
   (see the product brief); update `TRADEMARKS.md` with the registration once
   granted.
