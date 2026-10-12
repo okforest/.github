@@ -1,0 +1,35 @@
+name: Bug report
+description: Something in an OKForest tool doesn't work as documented.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. For security problems, follow the
+        [security policy](https://github.com/okforest/.github/blob/main/SECURITY.md)
+        instead of opening a public issue.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How to reproduce
+      description: The smallest steps, command, or tree that shows the problem. Use example domains (such as acme.example) and placeholder names, not real data.
+      render: shell
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: For example, the output of `okforest --version`.
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Operating system and Node.js version, or the CI runner.
