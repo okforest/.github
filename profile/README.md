@@ -14,7 +14,7 @@ through owner and steward approval as a pull request, and federates many
 repositories, private and public, into one discoverable whole. You own the
 content: cancel, and your knowledge stays in your repos with its full history.
 
-🌲 [okforest.ai](https://okforest.ai) · 📚 [Documentation](https://okforest.ai/docs)
+🌲 [okforest.ai](https://www.okforest.ai) · 📚 [Documentation](https://www.okforest.ai/docs)
 
 Open-source tools under Apache-2.0 · © Preneur LLC · OKF is an open
 specification published by Google; OKForest is independent and not endorsed
