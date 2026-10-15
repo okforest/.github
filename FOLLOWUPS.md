@@ -10,5 +10,6 @@ project matures.
 - **Private vulnerability reporting.** Enable it on each public repository
   as it is created (`SECURITY.md` points reporters there).
 - **Trademark.** Run the USPTO search and register the OKForest wordmark
-  (see the product brief); update `TRADEMARKS.md` with the registration once
-  granted.
+  (see the product brief); once granted, change ™ to ® in the policy
+  (www.okforest.ai/trademarks/, in the platform repo), the `TRADEMARKS.md`
+  files here and in `cli` and `validate-action`, and the site's footer.
